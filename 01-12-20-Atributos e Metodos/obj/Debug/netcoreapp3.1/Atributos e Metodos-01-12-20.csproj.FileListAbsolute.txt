@@ -1,0 +1,13 @@
+C:\Users\DiomipcdoLeonidas\Desktop\Diomi DEV\Diomi DEV\C#\Atributos e Metodos-01-12-20\bin\Debug\netcoreapp3.1\Atributos e Metodos-01-12-20.exe
+C:\Users\DiomipcdoLeonidas\Desktop\Diomi DEV\Diomi DEV\C#\Atributos e Metodos-01-12-20\bin\Debug\netcoreapp3.1\Atributos e Metodos-01-12-20.deps.json
+C:\Users\DiomipcdoLeonidas\Desktop\Diomi DEV\Diomi DEV\C#\Atributos e Metodos-01-12-20\bin\Debug\netcoreapp3.1\Atributos e Metodos-01-12-20.runtimeconfig.json
+C:\Users\DiomipcdoLeonidas\Desktop\Diomi DEV\Diomi DEV\C#\Atributos e Metodos-01-12-20\bin\Debug\netcoreapp3.1\Atributos e Metodos-01-12-20.runtimeconfig.dev.json
+C:\Users\DiomipcdoLeonidas\Desktop\Diomi DEV\Diomi DEV\C#\Atributos e Metodos-01-12-20\bin\Debug\netcoreapp3.1\Atributos e Metodos-01-12-20.dll
+C:\Users\DiomipcdoLeonidas\Desktop\Diomi DEV\Diomi DEV\C#\Atributos e Metodos-01-12-20\bin\Debug\netcoreapp3.1\Atributos e Metodos-01-12-20.pdb
+C:\Users\DiomipcdoLeonidas\Desktop\Diomi DEV\Diomi DEV\C#\Atributos e Metodos-01-12-20\obj\Debug\netcoreapp3.1\Atributos e Metodos-01-12-20.csprojAssemblyReference.cache
+C:\Users\DiomipcdoLeonidas\Desktop\Diomi DEV\Diomi DEV\C#\Atributos e Metodos-01-12-20\obj\Debug\netcoreapp3.1\Atributos e Metodos-01-12-20.AssemblyInfoInputs.cache
+C:\Users\DiomipcdoLeonidas\Desktop\Diomi DEV\Diomi DEV\C#\Atributos e Metodos-01-12-20\obj\Debug\netcoreapp3.1\Atributos e Metodos-01-12-20.AssemblyInfo.cs
+C:\Users\DiomipcdoLeonidas\Desktop\Diomi DEV\Diomi DEV\C#\Atributos e Metodos-01-12-20\obj\Debug\netcoreapp3.1\Atributos e Metodos-01-12-20.csproj.CoreCompileInputs.cache
+C:\Users\DiomipcdoLeonidas\Desktop\Diomi DEV\Diomi DEV\C#\Atributos e Metodos-01-12-20\obj\Debug\netcoreapp3.1\Atributos e Metodos-01-12-20.dll
+C:\Users\DiomipcdoLeonidas\Desktop\Diomi DEV\Diomi DEV\C#\Atributos e Metodos-01-12-20\obj\Debug\netcoreapp3.1\Atributos e Metodos-01-12-20.pdb
+C:\Users\DiomipcdoLeonidas\Desktop\Diomi DEV\Diomi DEV\C#\Atributos e Metodos-01-12-20\obj\Debug\netcoreapp3.1\Atributos e Metodos-01-12-20.genruntimeconfig.cache
